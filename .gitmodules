@@ -1,0 +1,18 @@
+[submodule "cpython"]
+	path = cpython
+	url = https://github.com/Gentle/cpython.git
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/madler/zlib.git
+[submodule "bzip2"]
+	path = bzip2
+	url = https://gitlab.com/bzip2/bzip2
+[submodule "xz"]
+	path = xz
+	url = https://github.com/tukaani-project/xz.git
+[submodule "zstd"]
+	path = zstd
+	url = https://github.com/facebook/zstd.git
+[submodule "util-linux"]
+	path = util-linux
+	url = https://github.com/util-linux/util-linux.git
